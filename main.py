@@ -16,5 +16,5 @@ import os
 f1_size = os.path.getsize("F1.txt")
 f2_size = os.path.getsize("F2.txt")
 
-print(f"Размер файла F1: {f1_size} байт")
+print(f"Размер файла F1: {f1_size} ляляля")
 print(f"Размер файла F2: {f2_size} байт")
